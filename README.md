@@ -3,3 +3,4 @@
 ## Day 2:[ Intel Scene Multi-Class Image Classification](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%202/Intel_Scene_Multi_Class_Image_Classification.ipynb)
 ## Day 3:[Effect of weight initialization on a model](https://github.com/mrvmurali1991/Deep-Learning-Projects/tree/main/Day%203)
 ## Day 4:[Hyperparameter tuning with Keras Tuner](https://github.com/mrvmurali1991/Deep-Learning-Projects/tree/main/Day%204)
+## Day 5:[Transfer learning model- Alexnet(2012) (Intel Scene Multi-Class Image Classification)](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%205/Transfer_learning_model_Alexnet.ipynb)'
