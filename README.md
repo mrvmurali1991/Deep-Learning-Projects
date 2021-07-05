@@ -13,3 +13,5 @@
 #### Day 12:[Transfer learning model- EfficientnetB1 and EfficientnetB0 (Intel Scene Multi-Class Image Classification)](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2012/Transfer_learning_model_EfficientnetB1_and_EfficientnetB0.ipynb)
 #### Day 13:[AutoEncoders on Image Data (Vanilla Autoencoder & Multilayer autoencoder )](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2013/AutoEncoders_on_Image_Data_(Vanilla_Autoencoder_%26_Multilayer_autoencoder_).ipynb)
 #### Day 14:[Convolutional Denoising Autoencoders for image noise reduction](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2014/Convolutional_Denoising_Autoencoders_for_image_noise_reduction.ipynb)
+#### Day 15:[Convolutional Denoising Autoencoders for image noise reduction](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2014/Convolutional_Denoising_Autoencoders_for_image_noise_reduction.ipynb)
+#### Day 16:[Variational Autoencoder](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2016/Variational_Autoencoder.ipynb)
