@@ -15,3 +15,4 @@
 #### Day 14:[Convolutional Denoising Autoencoders for image noise reduction](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2014/Convolutional_Denoising_Autoencoders_for_image_noise_reduction.ipynb)
 #### Day 15:[Convolutional Denoising Autoencoders for image noise reduction](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2014/Convolutional_Denoising_Autoencoders_for_image_noise_reduction.ipynb)
 #### Day 16:[Variational Autoencoder](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2016/Variational_Autoencoder.ipynb)
+#### Day 17:[Converting grayscale to colored images (RGB) using Autoencoder](https://github.com/mrvmurali1991/Deep-Learning-Projects/blob/main/Day%2017/Sparse_Autoencoder_for_image.ipynb)
